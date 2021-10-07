@@ -17,6 +17,9 @@ namespace homework
             Console.ReadLine();
 
             //comment
+            //comment
+            //comment
+            //comment
         }
     }
 }
